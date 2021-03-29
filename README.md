@@ -6,7 +6,7 @@ The porpuse of the project is to help Steve to analyze an entire dataset by refa
 
 ## Results
 
-![Aanalysis of outcomes based on launch dates](VBA_Challenge2017.png)
+![Aanalysis of outcomes based on launch dates](VBA_Challenge_2017.png)
 
 
 
