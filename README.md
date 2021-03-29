@@ -2,7 +2,7 @@
 UCB-Challenge 2
 
 ## Overview of project
-The porpuse of the project is to help Steve to analyze an entire dataset by refactoring a Excel VBA code and improve the time that the code takes to run taking certain stock data from the years of 2017 and 2018 to indentidy if it's a good choice to invest on these stocks.
+The porpuse of the project is to help Steve to analyze an entire dataset by refactoring a Excel VBA code and improve the time that the code takes to run collecting certain stock data from the years of 2017 and 2018 to indentidy if it's a good choice to invest on these stocks.
 
 ## Results
 
