@@ -8,8 +8,8 @@ The porpuse of the project is to help Steve to analyze an entire dataset by refa
 
 ### Code
 
- '1a) Create a ticker Index
-    tickerIndex = 0
+    '1a) Create a ticker Index
+      tickerIndex = 0
 
     '1b) Create three output arrays
     Dim tickerVolumes(12) As Long
